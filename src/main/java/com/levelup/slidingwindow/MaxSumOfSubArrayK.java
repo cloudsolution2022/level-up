@@ -28,7 +28,7 @@ Time complexity :O(n^2)
  */
 
 
-public class MaxSumOfSubArray {
+public class MaxSumOfSubArrayK {
     public static void main(String [] args){
         int [] maxArray={1,2,5,3,6,8,1,14};
         int  windowSize=3;
