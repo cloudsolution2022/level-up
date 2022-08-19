@@ -48,7 +48,7 @@ public class RangeSumofBST {
         }
 
     }
-    public static void main(Strin []args){
+    public static void main(String []args){
          int []nodeElement= {10,5,15,3,7,-1,18};
          Node root=null;
          RangeSumofBST rangeSumofBST=new RangeSumofBST();
